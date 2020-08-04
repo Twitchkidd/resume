@@ -2,4 +2,4 @@
 
 ### v4!
 
-![Resume](https://github.com/Twitchkidd/resume/ResumeV4.png)
+![Resume](https://github.com/Twitchkidd/resume/blob/main/ResumeV4.png)
